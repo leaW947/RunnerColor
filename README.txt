@@ -56,7 +56,7 @@ ce trou. A ce moment là, il continue sa route et le trou ce referme.
 
 
 	----briques de couleur----
-Il y a dans la map, des tuiles de couleurs.C'est tuiles sont particulière dans le 
+Il y a dans la map, des tuiles de couleurs. C'est tuiles sont particulières dans le 
 sens où les collisions fonctionneront uniquement si notre personnage est de la même
 couleur que la tuile en question.
 
@@ -67,7 +67,7 @@ Pour que notre personnage change de couleur, il suffit de ramasser un pot de pei
 plaçait dans la map. Il existe plusieurs pots de peinture de différentes couleurs:
 blanc,rouge,jaune et bleu.
 
-Si on ramasse un pot de peinture blanc,notre personnage redeviendra blanc
+Si on ramasse un pot de peinture blanc, notre personnage redeviendra blanc
 dans tout les cas.
 
 On peut mélanger les couleurs si on ramasse plusieurs pots de peintures:
